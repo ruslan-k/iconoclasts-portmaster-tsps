@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "modules": {
+    "iconoclasts": {
+      "directory": "./modules",
+      "settings": {
+        "fps_target": 60,
+        "dialogue_scale": 1.80,
+        "tutorial_scale": 1.40,
+        "tutorial_wrap_columns": 50,
+        "other_text_scale": 1.4,
+        "text_alpha_profile": "lowres"
+      }
+    }
+  }
+}

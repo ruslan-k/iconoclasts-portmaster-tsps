@@ -1,0 +1,14 @@
+# Commercial game data and installers
+/iconoclasts/gamedata/
+/iconoclasts/iconoclasts_*.sh
+/iconoclasts/*.zip
+
+# Device logs and diagnostics
+/iconoclasts/diagnostics/
+/iconoclasts/log*.txt
+/iconoclasts/*.log
+
+# Temporary local backups / experiments
+/iconoclasts/*.bak
+/iconoclasts/*.bak.*
+/iconoclasts/*.pre-*
